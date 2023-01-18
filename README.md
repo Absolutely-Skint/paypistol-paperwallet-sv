@@ -1,1 +1,1 @@
-# paypistol-paperwallet-sv
+# paypistol-paper-sv
